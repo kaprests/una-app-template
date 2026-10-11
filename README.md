@@ -41,6 +41,9 @@ Scaffold a new app from an **LVGL** example or tutorial in the SDK (TouchGFX is 
 mise run new-app MyApp --from una-sdk/Examples/Apps/RunLVGL
 ```
 
+It ends by listing remaining instances of the example app name (display strings, window
+title, comments) for you to review/edit by hand.
+
 ## Build and simulate
 
 ```sh

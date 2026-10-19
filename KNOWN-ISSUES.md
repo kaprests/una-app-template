@@ -1,4 +1,5 @@
 # Known issue: LVGL simulator crashes on 64-bit hosts
+AI generated diagnostics
 
 Found with SDK `sdk-v1.5.0`, RunLVGL example, Arch Linux x86-64.
 
